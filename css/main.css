@@ -1,0 +1,25 @@
+body{
+	background-color: #26547C;
+	color:#FCFCFC;
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	margin: 35px;
+}
+
+a{
+	color: #06D6A0;
+	font-weight: bold;
+}
+
+p{
+	line-height: 32px;
+}
+
+#hi{
+	color: #EF476F;
+	font-size: 85px;
+	font-weight: bold;
+}
+#in180{
+	color:#FFD166;
+	font-size: 40px;
+}
